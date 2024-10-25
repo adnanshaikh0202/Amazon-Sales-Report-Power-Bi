@@ -1,4 +1,4 @@
-# Amazon-Sales-Report-Power-Bi
+# Amazon-Sales-Report-Power-BI
 
 
 ## Overview
